@@ -1,1 +1,2 @@
-hello config
+config:
+  info: "hhhhh,我读到你啦~"
